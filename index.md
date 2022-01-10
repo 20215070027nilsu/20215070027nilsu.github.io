@@ -9,7 +9,8 @@ Bu sayfa içerisinde
 * Derslere ait repostoryler
 * Ödevler
 * Duyurular
+
 Paylaşılmaktadır.
 
-Sayfa yönetimi [Nilsu Mumcu](20215070027nilsu.github.io) tarafından yapılmaktadır.
+Sayfa yönetimi [Nilsu Mumcu](https://20215070027nilsu.github.io/) tarafından yapılmaktadır.
 
