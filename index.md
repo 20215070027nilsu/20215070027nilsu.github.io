@@ -1,4 +1,4 @@
-Merhaba Dünya
+
 ![](https://osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
 
 # Osmaniye Korkut Ata Üniversites
